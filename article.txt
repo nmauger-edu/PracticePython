@@ -1,0 +1,812 @@
+
+
+
+	*** Page   1 ***
+
+
+
+Nikon D850 Review
+
+
+
+
+
+
+
+The Nikon D850 is Nikon's latest high resolution full-frame DSLR, boasting a 46MP backside-illuminated CMOS sensor. But, in a fairly radical departure for the series, it is also one of the company's fastest-shooting DSLRs. This combination of properties should significantly widen the camera's appeal to high-end enthusiasts as well as a broad range of professional photographers.
+Key Specifications:
+
+45.7MP BSI CMOS sensor
+7 fps continuous shooting with AE/AF (9 with battery grip and EN-EL18b battery)
+153-point AF system linked to 180,000-pixel metering system
+UHD 4K video capture at up to 30p from full sensor width
+1080 video at up to 120p, recorded as roughly 1/4 or 1/5th speed slow-mo
+4:2:2 8-bit UHD uncompressed output while recording to card
+1 XQD slot and 1 UHS II-compliant SD slot
+Battery life rated at 1840 shots
+3.2" tilting touchscreen with 2.36M-dot (1024×768 pixel) LCD
+Illuminated controls
+19.4MP DX crop (or 8.6MP at 30fps for up to 3 sec)
+SnapBridge full-time Bluetooth LE connection system with Wi-Fi
+Advanced time-lapse options (including in-camera 4K video creation)
+
+High resolution
+The use of a backside illuminated (BSI) sensor means that the light collecting elements of the sensor are closer to the surface of the chip. This should not only increase the efficiency of the sensor (improving low light performance) but should also be expected to make the pixels near the edges of the sensor better able to accept light approaching with high angles of incidence, improving peripheral image quality.
+Like the D810 before it, the D850 continues to offer an ISO 64 mode, that allows it to tolerate more light in bright conditions. The D850 promises the same dynamic range advantage as the D810, meaning it should be able to compete with the medium format sensors used in the likes of the Fujifilm GFX 50S and Pentax 645Z.
+
+
+
+
+
+
+A BSI sensor with ISO 64 setting should be able to match the D810's low ISO DR while also offering improved performance in at high ISOs.
+
+
+
+The D850 has gained a more usable electronic front curtain shutter option (EFCS), which can now be used quiet shutter modes, as well as live view and Mirror-Up mode. To get the full benefit, though, you need to turn on exposure delay (which has had two sub-second delay settings added). However, exposure delay persists across all shooting modes. Thankfully, and presumably thanks to a redesigned shutter and mirror mechanism, mirror/shutter shock doesn't seem to be much of an issue, even without engaging EFCS.
+The D850 has no anti-aliasing filter, which should allow for slightly finer detail capture but with added risk of moiré, if any of your lenses are sharp enough to out-resolve a 45.7MP full-frame sensor. There's still no sign of the clever design Nikon patented so, unlike the Pentax K-1 or Sony RX1R II, you can't engage an anti-aliasing effect if you do find false color appearing in densely patterned areas.
+High Speed
+In addition to the increased speed, the D850 also gains the full AF capabilities of the company's flagship sports camera: the D5. This includes all the hardware: AF module, metering sensor and dedicated AF processor, as well as the full range of AF modes and configuration options, which should translate to comparable focus performance combined with high resolution.
+Given the D5 possessed one of the best AF systems we've ever seen and could continue to offer that performance in a wide range of conditions and shooting scenarios with minimal need for configuration, this is an exciting prospect.
+As part of this system, the D850 gains the automated system for setting an AF Fine Tune value. It only calibrates the lens based on the central AF point and for a single distance, but it's a simple way to ensure you're getting closer to your lenses' full capabilities, which is handy given you'll now be able to scrutinize their performance with 46MP of detail.
+
+
+
+
+
+
+
+Add the optional MB-D18 battery grip and an EN-EL18b battery, and the D850 will shoot at 9 frames per second.
+
+
+
+Impressively, the D850 can shoot at nine frames per second if you add the optional MB-D18 battery grip and buy an EN-EL18b battery, as used in the D5. As well as increasing the camera's burst rate, this combination also ups the battery life to a staggering 5140 shots per charge. You don't get this same boost in speed or endurance if you use a second EN-EL15a in the grip, though.
+An MB-D18 plus an EN-EL18b is likely to set you back over $580 over and above the cost of the camera body ($399 for the grip, around $149 for the battery, $30 for the BL-6 battery chamber cover plus the cost of a charger).
+The D850 also includes a sufficiently deep buffer to allow fifty-one 14-bit losslessly compressed Raw files, meaning the majority of photographers are unlikely to hit its limits.
+Video capabilities
+In terms of video the D850 becomes the first Nikon DSLR to capture 4K video from the full width of its sensor. The camera can shoot at 30, 25 or 24p, at a bitrate of around 144 Mbps. It can simultaneously output uncompressed 4:2:2 8-bit UHD to an external recorder while recording to the card. The camera subsamples to capture its video, lowering the level of detail capture and increasing the risk of moiré, along with a theoretical reduction in low light performance. We'll look at how significant this impact is, later in the review.
+At 1080 resolution, the camera can shoot at up to 60p, with a slow-mo mode that can capture at 120 frames per second before outputting at 30, 25 or 24p. The 1080 mode also offers focus peaking and digital stabilization, neither of which are available for 4K shooting.
+
+
+
+
+
+
+The D850's tilting rear screen will make video shooting easier, though we doubt many will use its contrast-detection tap-to-focus system when they do.
+
+
+
+The D850 doesn't have any Log gamma options for high-end videographers, but it does have the 'Flat' Picture Profile to squeeze a little extra dynamic range into its footage, without adding too much to the complexity of grading. It also offers full Auto ISO with exposure compensation when shooting in manual exposure mode, meaning you can set your aperture value and shutter speed, and let the camera try to maintain that brightness by varying the sensitivity.
+As you'd expect from a camera at this level, the D850 also includes the Power Aperture feature that allows the camera to open and close the lens iris smoothly when in live view mode. There's also an 'Attenuator' mode for the camera's audio capture, that rolls-off any loud noises to avoid unpleasant clipping sounds.
+
+
+	*** Page   2 ***
+
+
+
+Body & Camera Features
+
+
+
+
+
+
+The D850 will present no great surprises for D810 shooters: but the addition of a dedicated AF point joystick is likely to be welcome.
+
+
+
+The D850's body is primarily made from magnesium alloy and fairly closely resembles the D810. The newer model gains a D750-style flip up/down cradle for its rear screen, which is not only much higher in resolution but also touch sensitive. Unlike the D5 and D500, this touch sensitivity can be used in live view mode and for navigating menus, as well as for in playback mode.
+
+
+
+
+
+
+
+
+The camera's grip has been reworked, making it more comfortable than the D810 when holding the camera for long periods or with heavy lens combinations.
+The most obvious visual difference between the cameras is a different viewfinder hump, with the new camera having no built-in flash. Instead, strobe users will have to make do with the flash sync socket or purchase the WR- radio control trigger set (the WR-A10, WR-R10 and WR-T10 that allow remote triggering of the camera or remote control of radio compatible flashguns such as the Speedlight SB-5000).
+Nikon says that the removal of the onboard flash allows the D850 to be better weather-sealed than the D810, since there are fewer seams on the top of the camera to protect against moisture ingress.
+Autofocus hardware
+As with the Nikon D5, the D850 has a 153-point AF system featuring 99 cross-type points. The central AF point is rated as working in light as low as -4EV, with the rest still active at -3EV (and, since the metering sensor is meant to work down to this level too, it may still be possible to use the camera's 3D tracking mode in these very low light conditions). Fifteen of the camera's AF points clustered near the center of the frame will work with lens + teleconverter combinations with maximum apertures of just F8, which should make it useful for pursuits such as birding.
+This Multi-Cam 20K AF system, like the D5's, offers a good degree of frame coverage for a full frame camera: 30% wider than on the D810, the company says. The move from the D810's 91,000-pixel metering sensor to the D5's 180,000-pixel chip should improve subject recognition. This and the inclusion of a dedicated AF processor means the D850 should be a match for the D5, which can keep AF points on a moving subject even in continuous shooting, rather than subject tracking performance dropping noticeably during bursts, as the D810's did.
+So far as we can tell, the only significant difference between the D850's AF system and the D5's is the viewfinder display. The D5 has an organic electro-luminescent display layer that allows it to light the active AF points as they change in 3D tracking mode, the D850 has an LCD layer on which the points only light up when they're manually moved or when focus is initiated or acquired.
+Viewfinder
+
+
+
+
+
+
+
+The removal of the camera's built-in flash frees up room for a new viewfinder, so magnification is able to leap from 0.7x to 0.75x which is the largest optical viewfinder on any Nikon DSLR. The larger finder, which features a new condenser lens and an aspherical element in the design, retains a reasonable (17mm) eye point, we're told, so the whole scene should be visible even for most glasses wearers.
+
+
+	*** Page   3 ***
+
+
+
+Additional Features
+
+
+
+
+
+
+
+Time-lapse
+As with previous Nikon cameras, the D850 has intervalometer functions built in, so that you can capture time lapses without any external accessories. This feature can be combined with the camera's silent shutter live view mode, to avoid vibration or excessive wear on the mechanical shutter, though with the risk of rolling shutter.
+The camera can either assemble the images together in a 4K video or retain the full resolution files, to allow you to create a full resolution time-lapse in third-party software. Nikon uses the camera's high resolution to brand this second capability as "8K Timelapse," since the images exceed the 7680 × 4320 dimension of that video format.
+Like previous Nikons, the intervalometer lets you specify the number of shots and the delay between them but now adds the ability to create a new folder and reset the file numbering for each time lapse sequence, so that the files can easily be isolated and transferred to 3rd-party software.
+Focus shift
+The D850 can also use this 'new folder and reset the counter' approach for another of its features. The Focus Shift mode prompts the camera to shoot a series of photos at different focus distances. You can specify the number of images, the size of the distance steps and whether there's a delay between each shot. Unlike the similar feature on Olympus and Panasonic cameras, the Nikon can't combine the resultant images, but it can place them in a separate folder to make it easy to import them into 3rd-party focus stacking software.
+We're told the focus steps will be selected on a dimensionless 0-10 scale, presumably because the distance of the increments will vary depending on the type of lens you use.
+SnapBridge
+The D850 includes Nikon's SnapBridge connectivity system. This establishes a full-time Bluetooth LE connection between the camera and compatible smart devices. This is a step forward from the D810, which had no built-in wireless options, however, we have not found the SnapBridge system to be a good match for high-end systems in the past.
+
+
+
+
+
+
+The D850 does have Wi-Fi but it's only accessible through the Bluetooth-led smartphone app, the current version of which offers a fairly simplistic feature set.
+
+
+
+Existing implementations of SnapBridge lean very heavily towards using the Bluetooth connection to transfer images (unlike Samsung and Canon's approaches, which use it just to keep lines of communication open, so that Wi-Fi communication can be established more rapidly). The camera can transfer every image it shoots automatically either at 2MP or in full resolution, but only over Bluetooth. Select the images on the camera and those will be sent (slowly) over Bluetooth, too. The only way of accessing Wi-Fi and its greater transfer speed is to use the app to browse your memory card and select from there.
+Without a significant reworking of the SnapBridge app, we are concerned that the combination of a high-speed 46MP camera and a primarily Bluetooth-based connection with no ability to send Raw files will be inappropriate for the typical D850 user.
+
+
+	*** Page   4 ***
+
+
+
+By Richard Butler [Originally posted July 25th 2017]
+We were lucky enough to get a chance to handle the D850 and shoot a couple of quick test shots, though it was a pre-production camera, so we haven't been able to conduct a full and detailed analysis of these images.
+Based on these experiences, we're very impressed with the camera (as really should be the case when one of the big camera makers updates one of its most expensive, most ambitious models). From the specs alone, the camera promises something like the image quality of the Fujifilm GFX 50S with something like the autofocus performance of the Nikon D5. That's a big deal.
+...it could really be a camera for all disciplines
+The Sony a99 II showed it was possible to offer high resolution images and fast shooting, but the D850 takes this a step further. There are some 'ifs,' of course, but if the sensor can offer the low ISO image quality of the D810 combined with the AF of the D5 at between seven and nine frames per second, then it could really be a camera for all disciplines, from high res studio work to street fashion, weddings, sports, landscapes...
+Whether it lives up to this promise will come down to the implementation, and it's what we've experienced of this, hands-on, that leaves us impressed. For a start, it seems that a revised shutter and mirror mechanism has resolved the shock issues the D810 exhibited with longer lenses. This is a critical improvement for such a high resolution camera and one that isn't directly covered in the specs, but our quick shots suggest it's done the job.
+We weren't able to examine the camera's high ISO performance, but a quick check at base ISO suggests the ISO 64 mode does offer a DR advantage over ISO 100, which is what allowed the D810 to match the dynamic range performance of the GFX 50S and Pentax 645Z. We've also not had a chance to check the shadows, so this is a very preliminary impression, but ISO 64 does seem to be a 'real' sensitivity setting (i.e., not just ISO 100, but clipping earlier).
+
+
+
+
+
+
+
+We're less excited about the D850's video specification. Again, these impressions are based on brief use of a pre-production camera, but it seems extremely unlikely that Nikon is going to find a way to significantly change the sensor readout or processing speed to improve the rolling shutter we observed during our time with the camera. The footage itself looks like it's pixel-binned. This means that we don't expect the same level of fine detail as oversampled footage (where the information from all the pixels is demosaiced and then downscaled to 4K resolution), but on the plus side, it is less prone to moiré and should be better in low light than footage created by line skipping.
+We're less excited about the D850's video specification
+Although we have our concerns about the level of rolling shutter we saw and the continued lack of focus peaking for manual focusing in 4K mode, it's worth putting this in perspective. Canon's 5D Mark IV, the latest camera in what was once the go-to DSLR series for film makers, also exhibits significant rolling shutter despite also being subject to a significant crop. By comparison, The D850 offers the full (horizontal) field of view of its sensor, which is likely to make it a much easier camera to shoot with. Either way, we suspect there will be a lot of photographers from a broad range of disciplines who simply won't care, or will find the results more than good enough given the camera's other capabilities.
+Then there's SnapBridge. It's a primarily Bluetooth-based communication system that works very well for sending Facebook-sized images to a smartphone on the beginner-friendly D3400 but, we felt, made considerably less sense on the enthusiast-targeted, high frame rate D500. Without a fairly fundamental rethink, this criticism is going to be even more pressing on the high frame rate and high resolution D850.
+SnapBridge's Wi-Fi simply can't be used for many of the things you might now reasonably expect
+Since Wi-Fi is only accessible via the app and can only be used to pull images from the camera, we're not even sure it's fair to describe the camera as offering Wi-Fi: it simply can't be used for many of the things you might now reasonably expect. There's no way to connect to a home network, no means to transfer Raw and not even a way to auto transfer images over Wi-Fi, rather than Bluetooth. It's perhaps telling that when we spoke to them, Nikon's representatives highlighted that the D850 is compatible with the expensive WT-7A connectivity module: i.e., 'if you need a solid connectivity solution, we have an accessory for that'.
+Of course, other questions remain to be answered: even when lenses have been calibrated with Automated AF Fine Tune, will the camera be able to focus consistently enough to withstand scrutiny at 45.7MP? The D5's autofocus performance is excellent, but 20-46MP is a big jump and until we see a testable D850 there's no way of checking the results in such high detail. You can be assured it's one of the first things we'll check when a production-spec camera arrives.
+
+
+	*** Page   5 ***
+
+
+
+In Use...
+The D850's spec sheet points to it being an extremely capable all-rounder, at home capturing high contrast landscape scenes with incredible detail and dynamic range, while also handling moving subjects with aplomb. Let's look a little deeper into some common situations D850 owners are likely to put their cameras through and see how it measures up.
+Landscape
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 24-120mm F4G @ 24mm.ISO 64 | 1/250 sec | F5.6
+
+
+
+The D850 ticks off an awful lot of boxes for landscape shooters. While full-frame image sensors may be near-universally capable these days, megapixel count remains the premiere specification for most camera manufacturers and buyers. And the D850 has many, many megapixels: 45.7 of them, to be exact. That resolution will allow you to capture incredible detail in your landscape scenes.
+In addition to the sheer volume of pixels the D850 offers, it also, like its predecessor, offers a native base ISO value of 64. Thus, the D850 is able to capture 2/3 EV more light than competitors that offer a base ISO value of 100, allowing it to reach medium format levels of dynamic range. For more information on how this impacts your images in the real world, read up on a four-way camera comparison in our review of the D810, here.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon AF-S 28mm F1.4E.ISO 64 | 1/800 sec | F8
+
+
+
+So we've got resolution, and we've got dynamic range. The D850 also features a pro-level, all-metal build with weather sealing, so you can be confident that, with a suitably sealed lens, it'll stand up to the elements. Being a DSLR, battery life will be excellent if you're using the optical viewfinder. If you do pop into live view to frame your shots, the tilting touchscreen will allow you to work at odd angles easily (as long as you're shooting in - you guessed it - landscape orientation), and you'll be able to place your autofocus point quickly and easily with a tap of your finger.
+If you're into time lapses, the D850 has a new option to use the mechanical shutter for the first image, and then subsequent images will be taken using a fully electronic shutter; this preserves battery life, allowing you to capture thousands of images on a charge. For shooters that use focus stacking, the D850 will take a burst of images while automatically racking through the focus range, and then save those images in a separate folder for easy access later on. (Be aware this is only available when using newer AF-S and AF-P lenses).
+
+
+
+
+
+
+The Nikon D850 should also be a great option for night sky work - it offers remarkably low noise levels, likely due to both the BSI technology on the sensor and a 'dual gain' treatment for ISO. Image processed to taste in Adobe Camera Raw. Nikon 24mm F1.8G.ISO 3200 | 15 sec | F2.8
+
+
+
+So what exactly holds back the D850 as a landscape shooters' dream camera? Not much, but there are still a couple of considerations worth mentioning.
+First of all - lenses. Nikon's wide-angle lens lineup is fairly complete, but with 46MP, many are beginning to show their age. This is particularly true in light of new and excellent offerings from the likes of Canon and Sony. There are still good Nikon options, but you're going to need to shell out a good amount of money for the more premium options to get the best possible results. (That shot of Smith Rock above taken on the 24-120mm F4 shows how that lens struggles to keep up with the sensor, once you move away from the center of the image).
+Lastly, the Nikon D850 is not a petite camera. For landscape shooters that are also into backpacking or other outdoor pursuits where every ounce counts, a D850 with a couple of batteries and a couple of high-end lenses are going to weigh you down significantly.
+But if you can live with the weight and the need for the very best lenses, the D850 is an absolutely excellent option for professional landscape work.
+Formal portraiture
+
+
+
+
+
+
+The D850's ability to nail critical focus will be a critical consideration for those using it for portraiture. Edited and cropped to taste in Adobe Camera Raw. Nikon 85mm F1.4G.ISO 64 | 1/200 sec | F2
+
+
+
+The D850 is well-suited to shooting high-end studio and location portraiture for many of the same reasons that make it such a good landscape camera. Low noise and high dynamic range at base ISO make the files highly flexible for whatever your post production process might entail, and high resolution guarantees billboard-ready results if so required.
+And while Nikon's wide-angle lens ecosystem is looking a little dated, they've dutifully updated a number of moderate telephoto lenses that will serve you well, even given the 46MP the D850 offers. In particular, the 105mm F1.4E and 70-200mm F2.8E both make excellent portrait lenses for individuals or couples.
+If you're on location a lot, Nikon's new SB-5000 speedlights support radio triggering, so you don't necessarily have to rely on line-of-sight for off-camera flashes. Unfortunately, such functionality requires another hundred of your hard-earned dollars for the WR-R10 wireless remote controller. It's worth noting that, at this point, there's any number of other off-camera flash systems that offer both TTL and manual control depending on your needs. Through a variety of first-and-third party software and interfaces, the D850 also supports tethered shooting.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon AF-S 85mm F1.4G.ISO 64 | 1/2000 sec | F2.8
+
+
+
+We've seen in our autofocus testing that the D850 is capable of offering excellent autofocus precision (count those eyelashes!), but to be sure you're getting the best possible results, we recommend the use of Nikon's Automatic AF Fine Tune feature to make sure your lens is properly calibrated. That said, we've found that with this much resolution, a lens may require different calibrations for different subject distances (and if it's a zoom lens, with different focal lengths).
+This can be particularly problematic if you encounter focus issues in the middle of a shoot - should such problems arise, it's best to switch into live view and focus using the rear screen. It's a little slower, and since the D850 is a bit heavy, it can be a little unwieldy to hold at arm's length, but the incredibly accurate focus is worth it.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 105mm F1.4E. ISO 64 | 1/200 sec | F5.6
+
+
+
+The biggest hurdle someone is likely to encounter with the D850 for this sort of usage, particularly if one is coming from a medium format system is the lack of a leaf shutter. This means that the flash sync speed tops out at 1/250 sec, above which you'll need to use High Speed Sync (HSS), which reduces the possible maximum power output of the flash relative to your ambient exposure. It may also get in the way of using wider apertures when working outdoors during the day, unless you were to use a neutral density filter. Lastly, this could also potentially present a problem for those that need to freeze extremely fast motion while using flash, but this is a bit of an edge case.
+Overall then, we find the D850 to be a camera that is well-suited to high-end studio and portraiture work. You will need to be careful with your lens calibration and you may need to work around the sync speed, but the D850's overall performance and image quality make it a compelling option.
+Weddings and events
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon AF-S 24-120mm F4G.ISO 180 | 1/250 sec | F4
+
+
+
+Photography of weddings and events can be viewed, at its core, as a combination of many other types of photography. You may need some of the same capabilities as landscape photography to get high quality images of the venue. Autofocus precision and reliability can be important for staged portraits. You'll also benefit from good overall responsiveness and autofocus tracking performance for the dance floor and candids. There's some nuances in there, but it certainly seems that the D850 is up to the task.
+The D850 now sports a battery life rated at 1840 shots, up from 1200 on the D810, which was already very good. And when you worry less about batteries, you can concentrate more on your surroundings. As is the case with most DSLRs, the D850 is also highly responsive in general operation, meaning that it's ready as soon as you are - when you need to quickly move from shooting a staged portrait to capture a candid moment off to the side, for example.
+
+
+
+
+
+
+The D850 is also great as a 46MP photo booth camera. Nikon AF-S 35mm F1.8G.ISO 400 | 1/160 sec | F4
+
+
+
+It's a common practice for wedding shooters to use one 'resolution' body and one 'speed' body alongside each other, a preference that the D850 has the potential to change. Offering 7fps right out of the box, the D850 should be able to keep up with most standard wedding moments, like a bouquet toss. It also offers medium and small Raw formats, so you don't need to store huge 46MP files all the time if you don't want. Be aware though that our preliminary testing shows that these alternate Raw files aren't as malleable as the regular ones, unfortunately.
+For those wedding shooters that have switched to mirrorless and who may be eyeing a D850 with some interest, we must mention that this is a big, heavy camera. Hauling two of them around with two big F2.8 zooms will put far more strain on your back than, say, a couple of Fujifilm X-T2's.
+A wedding shooter can often be photographing from sunup to sunset, and the fact that every single one of the D850's autofocus points is sensitive down to at least -3 EV (which is around the amount of light on a moonlit evening) will help immensely with capturing accurately focused images when the lights go down. Backlit controls and the biggest-ever Nikon DSLR viewfinder will help you in this situation as well. We should note, though, that the AF points can be difficult to see, and even when they're lit up, they appear dimmer than on the D810.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 35mm F1.8G.ISO 3200 | 1/200 sec | F2
+
+
+
+And if you can get Snapbridge working (it's improved, but is still finicky), you can transfer some of the images of guests you've just taken directly to their phones or to a Fuji Instax printer, for example, which is always crowd pleaser. Overall, then, if you can live with the weight and don't mind large files, the D850 really doesn't have a whole lot to hold it back as a wedding shooters' primary camera.
+Sports and action
+
+
+
+
+
+
+Processed and cropped to taste in Adobe Camera Raw. Nikon 16-35mm F4G.ISO 110 | 1/2000 sec | F8
+
+
+
+Sports cameras are highly specialized machines. They must be incredibly rugged, respond to your inputs instantly, autofocus and shoot quickly, have good burst speed and short viewfinder blackout. The D850 gets most of these right, but it's not perfect.
+We don't torture test cameras at DPReview, but at the very least, the D850 is very well-sealed against dirt and dust (thanks to Chris Niccolls for confirming this on a recent Nikon press trip - no signs of dust in his D850 after he fell into a pile of dirt). The port doors are very secure, and there's noticeable gaskets around the card and battery doors. The solid, all-metal construction should handily stand up to a knock or two.
+We've already found autofocus on the D850 to be generally very good. Using either a single point, zone or group of focus points resulted in a very high hit rate across a variety of sports and subjects and with a minimal amount of required setup - this is a strong bonus over Canon's DSLR options, which also offer excellent autofocus, but require you to dial in specific parameters for your shooting situation. We found that 3D Tracking, wherein you choose your subject with a single AF point and the camera automatically moves the AF point to follow your subject, isn't quite as reliable as Nikon's flagship D5, but it is certainly a big improvement over the D810.
+
+
+
+
+
+
+Processed and cropped to taste in Adobe Camera Raw. Nikon 70-200mm F2.8E.ISO 160 | 1/2500 sec | F4
+
+
+
+For hardcore sports shooters, the D850's burst speed of seven frames per second may not be fast enough - you can add a grip and a D5 battery to boost it to 9fps, which is more 'sports shooting' territory, but those add-ons come at a pretty steep cost. We'll also be looking more in-depth at the D850's performance with the grip attached in a future article. For now though, if outright speed is your primary concern, better to look up-market to the Canon EOS-1D X II, Sony a9 or Nikon D5 - a Nikon D500 is also a good option if you don't necessarily need the full frame sensor.
+The use of XQD cards in the D850 is likely to be a love-it-or-hate-it affair from potential buyers, but bear in mind, the insane speed they offer enables bursts to be written in the matter of a few seconds after you stop shooting - even though your files are 46MP monsters. This will allow you to quickly check critical focus on your images and get back to shooting that much faster, and the read speed will also mean much faster downloads.
+Lastly, we're pleased to see that the D850's JPEG engine appears to be much improved relative to the D810's, with excellent color and good sharpening. This is particularly important for photographing professional sports, as so much of the time, photographers will need to send off JPEG images immediately to editors after crucial plays mid-game. Somewhat paradoxically, then, the 46MP resolution can be a little overkill for these types of shooters.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 300mm F4G PF. ISO 80 | 1/1000 sec | F4
+
+
+
+Video
+For Nikon shooters interested in branching into video, the D850 is the company's first camera that can record 4K video using the full width of the sensor, allowing users to realize the full potential of their wide-angle lenses in movie mode. There is also a DX (APS-C) crop option, which improves 4K video quality, as well as an array of Full HD and slow motion options.
+While the D850 lacks any true Log gamma options for those who are grading their video footage in post, it does include Nikon's 'Flat' picture profile, which allows for some degree of grading flexibility. A first on any Nikon is focus peaking for those who prefer manual focus, but it's only available when shooting Full HD. There are also customizable zebra patterns for warning you about clipped highlights, an automatic attenuator to keep your audio from blowing out, and electronic image stabilization, though that last one is again only available in Full HD.
+
+
+
+
+
+
+
+The tilting screen comes in handy for waist-level video shooting, and you can use the touchscreen to place your point of focus. The camera is a little bit heavy for run-and-gun work, but if you're going to be putting it on a tripod, this is obviously a non-issue.
+The D850's biggest deficiency for a lot video shooters these days will be the lack of any decent video autofocus functionality. It is typical contrast-detect only, meaning it hunts distractingly back and forth before settling into focus. Canon's Dual Pixel AF is worlds better, Panasonic's Depth-from-Defocus has seen remarkable improvements in recent cameras, and Sony's on-sensor phase detection is also adept at smooth autofocus transitions.
+So while the Nikon D850 does make a suitable video camera for a stills oriented shooter looking to branch out, we can't help but recommend the dedicated video producer look elsewhere for better options.
+Click here to read more about the experience of shooting video with the Nikon D850.
+
+
+	*** Page   6 ***
+
+
+
+Conclusion
+
+
+
+
+Pros
+Cons
+
+
+
+
+45.7MP BSI-CMOS sensor with great low-and-high ISO performance
+Native low ISO value of 64 offers class-leading dynamic range and rivals medium format options
+Impressive 153-pt autofocus system derived from flagship D5
+New mirror and shutter mechanisms nearly eliminate most blur issues
+Excellent grip, ergonomics and controls
+Rugged, weather-sealed construction
+Dual slots, with XQD slot offering incredibly fast read and write speeds
+Largest-ever optical viewfinder on a Nikon DSLR
+Variety of 4K and 1080p video modes
+Improved JPEG noise reduction and sharpening compared to D810
+Generally great JPEG color
+Tilting, high-resolution touchscreen
+Great battery life
+Automatic AF fine tune helps get the most out of your lenses
+Snapbridge offers Wi-Fi and Bluetooth connectivity
+Innovative timelapse and focus stacking features
+
+
+
+
+Live view autofocus still clunky for both stills and video shooting
+Subject tracking not quite up to D5 standards
+XQD cards still rare, somewhat pricey
+Omission of built-in pop-up flash may turn off some users
+Snapbridge is still finicky, even for basic image transfer
+Snapbridge seems overly simplistic for high-end camera users
+Lens calibration becomes absolutely critical at this resolution, and can be a pain point
+Noticeable rolling shutter in 4K video
+Focus peaking unavailable when shooting 4K video
+
+
+
+
+
+
+Overall conclusion
+
+
+
+
+
+
+
+The year 2017 is Nikon's 100th anniversary, which is a remarkable milestone for any company, much less a camera company that has survived the digital photography revolution. And there's no doubt about it: The D850 is the company's true 100th anniversary camera, a 'back-to-basics' product for Nikon that also pushes forward for photographers in important, if not overly flashy, ways.
+Offering an impressive 45.7MP of resolution, 7fps burst shooting, full-width 4K video and a focusing system derived from the flagship D5, it looks as though Nikon's thrown just about everything they've got into the D850, and priced it well to boot. Competitors with similarly specced megapixel counts such as the Sony a7R II and Canon EOS 5Ds R may be cheaper at this point in their lifetimes, but they also fall short of the D850 in a number of ways that may make a difference in the way you shoot.
+
+
+
+
+
+
+Hear ye, hear ye; the Nikon D850 is really, really good. Processed to taste in Adobe Camera Raw. Nikon AF-S 85mm F1.8G.ISO 4000 | 1/500 sec | F1.8
+
+
+
+So let's dig in and see if all that the D850 is capable of is enough to make it stand out in an increasingly crowded and mirrorless photographic world.
+Body, controls and features
+
+
+
+
+
+
+
+Design-wise, D850 may not stand out in a lineup of DSLRs these days, but it comes with an array of improvements and refinements that make it an exceedingly comfortable camera to use.
+On the exterior, Nikon has slimmed-down and deepened the D850's grip relative to the D810; this is the same treatment bestowed first upon the D750 and subsequently the D500, and it makes the camera very comfortable to hold, especially considering its relative heft. The ISO button has moved over to the right shoulder of the camera from the left, just like the D5, and the D850 has also inherited that camera's backlit controls. Unfortunately, the D850 loses the D810's built-in pop-up flash, which was handy for quick fill light and off-camera flash control, but Nikon claims weather-sealing has been made better as a result.
+There is now a dedicated AF joystick which is far nice to use than Nikon's eight-way directional pad, and though there is still a dedicated AF-ON button for back-button autofocus shooters, the AF-L button has been removed. The card door hides dual card slots, one SD and one XQD. Despite its relative scarcity in the market, the remarkable speeds offered by XQD have the potential to change the way you shoot.
+
+
+
+
+
+
+The XQD card slot allows for bursts of images, even 46MP images, to be written very, very quickly. Processed and cropped to taste in Adobe Camera Raw. Nikon 16-35mm F4G.ISO 200 | 1/2000 sec | F8
+
+
+
+The tilting touchscreen on the back of the camera is both bright and responsive, allowing you to zoom and scrub through images in playback, place your AF point in Live View, and make menu selections. The optical viewfinder, offering 0.75x magnification, is the largest ever in a Nikon DSLR, and is a joy to use. Our only major criticism with it is that the autofocus points, even when lit up red, are dimmer than those on the D810, and difficult to see regardless of shooting scenario.
+The magnesium-alloy body has an impressive feel of solidity, and secure doors for the side ports as well as gaskets around the card and battery doors further inspire confidence in the camera's build.
+
+
+
+
+
+
+Nikon's automatic autofocus fine tune has found its way into the D850 as well, but it would benefit from multiple values for zoom lenses and subject distance. Processed and cropped to taste in Adobe Camera Raw. Nikon AF-S 85mm F1.8G.ISO 64 | 1/160 sec | F1.8
+
+
+
+Regarding other features, Nikon's added a new electronic shutter option for time lapses that preserves battery power, and there's a new 'Focus Shift' feature that automatically racks through your lens' focus range if you're shooting macro photos or landscapes - the resulting images are saved in a separate folder on your memory card for easy focus stacking in post. Snapbridge is somewhat improved, but still a little simplistic for a camera of this caliber.
+Image quality
+The D850 not only has some big shoes to fill thanks to the already-stellar performance of the D810, but also some strong competitors to match. Sony's a7R II may seem like it's getting a little long-in-the-tooth by Sony refresh-cycle standards, but it's still got a fantastic sensor, and Fujifilm's GFX 50S is bringing larger sensors down a price point. There's some disagreement around the DPReview offices as to whether medium format will ever become mainstream (or at least somewhat more mainstream than it is now), but we nonetheless find that the D850 is able to - most of the time - close the gap with larger-sensored competitors with respect to image quality.
+It's also worth mentioning that the occasional mirror/shutter shock issues we noticed with the D810 seem to be mostly solved in the D850 - under certain circumstances, with long lenses and around 1/125 sec shutter speed, you will see a slight reduction in sharpness. If you do - just switch to any Q mode and enable electronic front curtain with a 0.2s exposure delay. Problem solved. Overall, Nikon's done an incredibly commendable job with the new mirror and shutter mechanism on the D850.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 70-200mm F2.8E.ISO160 | 1/2500 sec | F4
+
+
+
+The JPEG engine has been improved, with the D850 taking better advantage of the sheer amount of raw detail at its disposal far better than the D810 was able to. Nikon's JPEG color has also been steadily improving over the years, and sharpening is also improved, but still not class-leading; detail at higher ISO values tends to get smeared away somewhat, though edges remain fairly distinct.
+It's in Raw that the D850 really shines. It shows very, very slight deficiencies in the finest detail capture when compared to its medium format rivals, but overall, the D850 puts up an impressive performance. Because of the lack of an anti-aliasing filter, you may find moiré to be a problem with finely detailed patterns in your photographs.
+
+
+
+
+
+
+Details, details. Nikon 24-120mm F4G.ISO 64 | 1/320 sec | F5.6
+
+
+
+Thanks to a new 'dual gain' amplification system, images at lower ISO values exhibit excellent dynamic range while the D850 controls noise levels at higher ISO values remarkably well. Unfortunately, in heavily pushed images or images taken at the highest ISO values, the D850 appears to show more speckling that looks similar to hot pixels (though they're not, as they're not fully clipped) than its predecessor.
+Autofocus
+The autofocus system on the D850 is derived from the system present in Nikon's D5 and D500 sports cameras, and it shows. It can't quite match the outright subject tracking capability of the D5, but it's still an incredible improvement over its predecessor and a marked step above its direct peers during burst shooting.
+
+
+
+
+
+
+With a suitably calibrated lens, autofocus precision is very high indeed. Nikon 85mm F1.4G.ISO 64 | 1/640 sec | F4
+
+
+
+The system has 153 total autofocus points, of which 51 are user selectable. The center point is sensitive down to -4 EV, with all the other points sensitive down to -3 EV (this is around the brightness of a moonlit night). As we say, it can't quite match the D5's subject tracking, but in every way it is an improvement over the already-good system in the D810.
+The D850's downfall here really comes down to its staggering resolution. If your lens is mis-calibrated, you will notice it at 46MP. Nikon did include its automatic AF fine tune on the D850, but we've found that if you enjoy shooting at wider apertures, you should really calibrate your lens at the distance at which you'll be using it; calibration values can vary depending on your subject distance, which can be a little frustrating. Once you have calibrated your lens, though, the precision that the D850's focus system is capable of is quite impressive.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 70-200mm F2.8E.ISO 64 | 1/1000 sec | F4
+
+
+
+Nikon's Live View AF is still quite pedestrian by modern standards. It's a simple contrast-detection affair, and though it's incredibly accurate (handy for when you discover, mid-shoot, that your lens isn't calibrated properly for the viewfinder AF system), it is pretty slow. Newer AF-S and AF-P lenses will focus faster than older screw-drive lenses, but nonetheless, it's a deficiency that really stands out on an otherwise refined camera.
+Video
+
+
+
+
+
+
+
+The Nikon D850 is the company's first DSLR to offer 4K video recording using the full width of the sensor, and it also offers an array of Full HD and slow motion options. On the side of the camera, you'll find both headphone and microphone ports for better audio than the internal microphones allow, and there are some new capture aids, such as focus peaking (though it's only available when shooting 1080p).
+Getting un-cropped 4K video in a Nikon camera is certainly going to be a revelation for those that have been waiting for it; overall, the quality is good if not stellar, though switching into the DX crop mode improves things noticeably. What's really holding the D850 back is its poor autofocus performance when shooting video. It's contrast-detect only, so it hunts distractingly before locking in. If you're just shooting static interview scenes, then no problem, but if you're looking at run-and-gun video shooting while capturing stills on the side, there are likely better options out there for you.
+The final word
+As you may have gathered from the ratio of 'pros' to 'cons' at the top of the page, we're more than impressed by the D850. It bests its predecessor, the D810, in just about every measurable way - and this is all the more striking when you think about how capable that camera still is.
+It's clear, though, that given our experience with autofocus calibrations, that we are running up against some inherent deficiencies in DSLR design with the D850. There's also the matter of Live View focus performance that Nikon hasn't quite solved, and though they've made great strides in their video quality, there's a ways to go before they're really competitive.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 28mm F1.4E.ISO 64 | 1/800 sec | F5.6
+
+
+
+Despite that, we've said previously that this just might be the most well-rounded stills camera ever, and we still find this to be the case. If you're careful with your technique and have the requisite lenses, the D850 will reward you with incredible detail in landscapes and portraits. If you need to shoot moving subjects, you have a highly capable AF system and 7fps at your disposal, with the option to boost that to 9fps if you so require. The D850 puts out great color and overall image quality regardless of where the ISO value lands. You really can shoot just about anything wth it.
+In the end, we feel that the D850 will satisfy the needs of an incredible variety of photographers, and we're comfortable saying the D850 is the best DSLR on the market today. For that, it merits our highest award.
+Nikon D850Category: Semi-professional Full Frame CameraBuild qualityErgonomics & handlingFeaturesMetering & focus accuracyImage quality (raw)Image quality (jpeg)Low light / high ISO performanceViewfinder / screen ratingOpticsPerformanceMovie / video modeConnectivityValuePoorExcellentConclusionWith expansive resolution, a capable autofocus system, fast burst shooting and great image quality under almost any situation, the D850 is the best DSLR on the market today, and among the best all-around stills cameras we've ever tested. Live view autofocus and video modes could still use some work, but the camera's capabilities handily outshine those deficiencies.Good forPhotographers who photograph anything from landscapes to sports and want the best possible image quality in a DSLR.Not so good forThose shooting incredibly fast action that requires higher burst speeds and those who require a more refined video feature set.89%Overall scoreRegularScoreCompareWidget({"mainElementId":"scoringWidget","mainProduct":"nikon_d850","scoringSchema":{"id":"SLRs","variables":[{"id":"BuildQuality"},{"id":"ErgonomicsAndHandling"},{"id":"Features"},{"id":"MeteringAndFocusAccuracy"},{"id":"QualityRaw"},{"id":"QualityJpeg"},{"id":"LowLightHighISO"},{"id":"ViewfinderScreenRating"},{"id":"Optics"},{"id":"Performance"},{"id":"Movie"},{"id":"Connectivity"},{"id":"Value"}],"categories":[{"id":"EntryLevel","label":"Entry Level Interchangeable Lens Camera / DSLR","shortLabel":"Entry Level"},{"id":"MidRange","label":"Mid Range Interchangeable Lens Camera / DSLR","shortLabel":"Mid Level"},{"id":"MidRangeFullFrame","label":"Mid Range Full Frame Camera","shortLabel":"Mid Range Full Frame"},{"id":"SemiProfessional","label":"Semi-professional Interchangeable Lens Camera / DSLR","shortLabel":"Semi-professional"},{"id":"SemiProfessionalFullFrame","label":"Semi-professional Full Frame Camera","shortLabel":"Semi-professional Full Frame"},{"id":"Professional","label":" Professional Interchangeable Lens Camera / DSLR","shortLabel":"Professional"},{"id":"LargeSensorCompactEntry","label":"Entry Level Large Sensor Compact Camera","shortLabel":"Entry Level Large Sensor Compact"},{"id":"LargeSensorCompactEnthusiast","label":"Enthusiast Large Sensor Compact Camera","shortLabel":"Enthusiast Large Sensor Compact"},{"id":"VideoCamera","label":"Video Camera","shortLabel":"Video Camera"}]},"helpText":"Choose one or more cameras from the drop-down menu, then roll your mouse over the names to see how their scores compare to the camera on review."})
+
+
+	*** Page   7 ***
+
+
+
+Sample Gallery
+Please do not reproduce any of these images on a website or any newsletter / magazine without prior permission (see our copyright page). We make the originals available for private users to download to their own machines for personal examination or printing (in conjunction with this review), we do so in good faith, please don't abuse it.
+Unless otherwise noted images taken with no particular settings at full resolution. Because our review images are now hosted on the 'galleries' section of dpreview.com, you can enjoy all of the new galleries functionality when browsing these samples.
+$(document).ready(function() { SampleGalleryV2({"containerId":"embeddedSampleGallery_5682971467","galleryId":"5682971467","isEmbeddedWidget":true,"selectedImageIndex":0,"isMobile":false}) });
+
+
+	*** Page   8 ***
+
+
+
+Image Quality
+Our test scene is designed to simulate a variety of textures, colors and detail types you'll encounter in the real world. It also has two illumination modes to see the effect of different lighting conditions.
+$(document).ready(function() { ImageComparisonWidget({"containerId":"reviewImageComparisonWidget-5274039","widgetId":554,"initialStateId":null}) })
+The D850's 45 megapixels allow it to compete directly with the higher pixel counts of the Canon EOS 5DS R, Fujifilm GFX 50S and Pentax 645Z. In the very finest detail$(document).ready(function() { $("#icl-3747-135000475").click(function() { ImageComparisonWidgetLink(3747); }); }) you can see a difference, with the Nikon not able to correctly render the fine waves in the bank note. It's starting to show texture on the faces of the playing cards$(document).ready(function() { $("#icl-3748--2064115446").click(function() { ImageComparisonWidgetLink(3748); }); }).
+Without anti-aliasing filters, all these cameras exhibit a degree of false color from moiré$(document).ready(function() { $("#icl-3746--298592070").click(function() { ImageComparisonWidgetLink(3746); }); }), when used with lenses that are sharp at relatively wide apertures (before diffraction blurs detail too much for this to occur).
+Noise levels$(document).ready(function() { $("#icl-3749--1537530301").click(function() { ImageComparisonWidgetLink(3749); }); }) are competitive with the Fujifilm GFX 50S, at high ISO settings, which puts it ahead of the EOS 5DS R but behind the Pentax 645Z, which appears to be applying some noise reduction. More significantly, the D850 outperforms its predecessor$(document).ready(function() { $("#icl-3750--466156461").click(function() { ImageComparisonWidgetLink(3750); }); }) at high ISO, presumably thanks to its BSI and dual gain sensor design.
+JPEG output
+JPEG color$(document).ready(function() { $("#icl-3751-620068565").click(function() { ImageComparisonWidgetLink(3751); }); }) is pretty standard for Nikon, so if you like Nikon JPEGs, you'll be happy. We tend to prefer the slightly less pink Caucasian skin tones of Canon and Fujifilm but it's a fairly subtle difference. Yellows are noticeably more saturated and a fraction more orange than those two brands but have none of the green tinge that remains in the Sony a7R II's images. The camera's representation of greens$(document).ready(function() { $("#icl-3758-1460069230").click(function() { ImageComparisonWidgetLink(3758); }); }) is rather pleasant, too.
+Like the recent D7500, the D850 has an 'Auto' Picture Control setting that adjusts the color and tonal response to suit its understanding of the subject matter. It generally produces very pleasing results, but be aware that there can be shot-to-shot variance. So if you're going for a certain look to all your shots, you may wish to stick to one particular mode as we did for our studio scene ('Standard').
+Default sharpening$(document).ready(function() { $("#icl-3752-1453109520").click(function() { ImageComparisonWidgetLink(3752); }); }) is well-judged, emphasizing edges in fine detail but without exaggerating them too much. It doesn't do quite as well as the Fujifilm GFX 50S or Sony a7R II, when it comes to lower-contrast detail, but with such a high pixel count, it still looks good. This is a big improvement over the D810$(document).ready(function() { $("#icl-3756--208476728").click(function() { ImageComparisonWidgetLink(3756); }); }), which is fortunate, since only the intensity of the sharpening can be adjusted, with no control over threshold or radius/fineness control.
+Noise reduction$(document).ready(function() { $("#icl-3754--509168689").click(function() { ImageComparisonWidgetLink(3754); }); }) is a little unsophisticated compared to the best of its peers, with fine detail smoothed away relative to, say, the GFX 50S or the context-sensitive noise reduction of recent Sony cameras. However, the combination of noise reduction and sharpening$(document).ready(function() { $("#icl-3755--1959538189").click(function() { ImageComparisonWidgetLink(3755); }); }) emphasizes edges to maintain a semblance of detail even if some of the subtlety is lost. Again this is a big improvement over the D810's default output$(document).ready(function() { $("#icl-3757--31990170").click(function() { ImageComparisonWidgetLink(3757); }); }), and is miles ahead of Canon cameras' output.
+Overall, then, the Raw performance is good, with no nasty surprises. The JPEGs do a pleasing, though not cutting-edge, job of translating that performance into the camera's basic output. The new 'Auto' and 'Standard' Picture Controls are a significant upgrade over the D810/D750 era, offering - in our opinion - far more pleasing colors and detail. Enough that you may often opt for the JPEG over processing the Raw yourself.
+Mirror / shutter shock
+One of our biggest issues with the D810 was the softness and often significant blur induced by shake caused by the mirror and shutter mechanisms, particularly with VR lenses where the vibration reduction mechanism seemed to interact negatively with the shock caused by the moving mirror and/or shutter. At certain shutter speeds with some lenses it was bad enough to render completely unusable images.
+Thankfully, the D850 largely addresses these issues in two very useful ways. First, the mirror and shutter mechanisms have been redesigned to as to cause minimal image blur across all shooting scenarios. And we mean it: we saw only minimal softness at shutter speeds between 1/80s to 1/125s shutter speeds at 300mm with VR. Compare that to the dismal results the D810 exhibited under similar circumstances.
+But if you want ultimate sharpness, you have the option for electronic first curtain (EFCS), which is far more usable on the D850 than on the D810. On its predecessor, EFCS was only available in Mirror Up mode, which meant it wasn't useful for general photography. It even required two shutter button presses, ideally with an exposure delay after the second press (the shortest delay was 1 second, which made it even more cumbersome). We asked Nikon to allow EFCS in all other drive modes paired with a short (0.1 to 0.2s) delay such that the mirror and shutter would open, and the camera would then wait a fraction of a second before initiating the exposure electronically.
+We kind of got it: on the D850, you can pair EFCS with shorter 0.2 or 0.5s Exposure Delays, and EFCS is now additionally available in both Q and Qc modes. This completely eradicates any mirror/shutter shock issues at any shutter speed with most lenses, yielding images as tack sharp as mirrorless. The only downside? You have to remember to switch to Q mode and enable an exposure delay. We wish Nikon had allowed an option to automatically enable the 0.2s Exposure Delay mode in Q mode when EFCS is turned on, so you could quickly switch between typical still shooting with no delay in Single and Continuous drive modes, but switch to a 'tack sharp' shooting mode in Q mode with the 0.2s delay.
+
+
+	*** Page   9 ***
+
+
+
+Analysis: Dynamic Range
+One of the D810's most significant features was its ability to shoot at ISO 64. There are two main factors that influence the Raw (saturation-based) ISO rating: efficiency and full-well capacity. Higher efficiency (a higher proportion of photons being registered) would push base ISO upwards, while an increased full-well capacity (capacity for electronic charge) pushes it down.
+The D810 offered a lower ISO by increasing its full well capacity (or, at least, finding a way to squeeze a bit more out of it). This meant it was able to capture just as much of the light it was exposed to as the D800 but could tolerate more light before it started to clip. This meant it could be given greater exposure, which improves the signal-to-noise ratio and gives cleaner tones across the image: an improvement often interpreted as improved tonality.
+This ability to tolerate an extra 2/3EV exposure is why we say that the D810 is able to compete with the latest batch of medium format cameras, whose 44 x 33mm sensors would capture 2/3EV more light at the same F-number and shutter speed.
+So does the D850 manage to repeat this trick? Yes, it certainly looks like it.
+$(document).ready(function() { ImageComparisonWidget({"containerId":"reviewImageComparisonWidget-56828602","widgetId":552,"initialStateId":3736}) })
+Similar noise performance in the deep shadows suggests the same dynamic range, so long as it isn't clipping the highlights earlier. Bill Claff's data suggests it doesn't, and that the overall base ISO DR is just as good.
+We further confirmed that dynamic range results remain identical in continuous drive modes, unlike many Sony ILCs that drop to 12-bit.
+BSI benefits, High ISO Performance and ISO Invariance
+We were always told that BSI sensors wouldn't offer much of an efficiency improvement in large sensors, since the pixel circuitry that might otherwise get in the way only makes up a small proportion of the light-sensitive area in large pixels. Instead, Nikon says the main benefit in the D850 was that it allowed them to include the additional circuitry needed to offer higher readout speeds without having to worry about it impinging on the light collecting part of the pixel.
+Theoretically we might also see some benefit in performances in the corners with wide-angle lenses, but that doesn't come into play with the 85mm lens we use for these tests.
+However, while we wouldn't expect the move to BSI to give a significant improvement in high ISO noise as a result of increased efficiency, we would expect to see some come from the D850's sensor's 'dual gain' design. This uses a different, higher gain read-out circuit for higher ISOs that slightly decreases the read-out noise but lowers the amount of the full well capacity you can use. Because, at high ISOs, even tiny amounts of read noise are multiplied many, many times, any reduction is valuable. At these settings, much of the sensor's capture is amplified to clipping, so a reduction in full well capacity is a trade-off worth making. As such, we see the camera's base ISO performance unaffected, but from ISO 400 upwards, we should see an improvement in noise performance.
+This approach means the D850 is not ISO Invariant, but not in a bad way: it's not because the low ISO modes are adding a lot of read noise, but because the higher ISO modes are able to add even less.
+$(document).ready(function() { ImageComparisonWidget({"containerId":"reviewImageComparisonWidget-55163222","widgetId":551,"initialStateId":3740}) })
+Sure enough, just like the D810, if you brighten the D850's ISO 64 shots, they exhibit more noise than if you shoot at the same exposure using a higher ISO. Add a little more amplification at the bottom end, by starting at ISO 100$(document).ready(function() { $("#icl-3741-231586288").click(function() { ImageComparisonWidgetLink(3741); }); }) and the results are very similar to those you get by natively shooting at ISO 6400 (which are noisier than the ISO 64-4000 series of shots, since the latter were given more exposure).
+Once you get above ISO 400, where the sensor switches to a higher pixel-level gain, there's essentially no difference between shooting at ISO 500 and brightening$(document).ready(function() { $("#icl-3743--91649576").click(function() { ImageComparisonWidgetLink(3743); }); }), vs shooting at ISO 4000.
+That makes it rather unfortunate that Nikon - like most stills camera manufacturers - choose to brighten higher ISO shots with in-camera amplification as opposed to in the Raw converter. The latter method would offer multiple stops of potential highlight information the D850 - and most cameras - simply throw away. Many video cameras operate this way to afford you the maximum dynamic range and post-processing latitude at any ISO: it's generally called 'EI' mode.
+The D850 throws away stops of highlights at ISOs above 500 for no benefit. Still camera manufacturers need to learn a thing or two from their video departments.
+By ISO 4000 and 6400$(document).ready(function() { $("#icl-3742--513563626").click(function() { ImageComparisonWidgetLink(3742); }); }), you can start to see the D850's higher gain mode showing a slight noise improvement over the D810: a difference we'd expect to see as the ISO settings rise further. What's inexcusable at this point though is the additional amplification above ISO 500 that throws away many stops of highlights for no benefit whatsoever. Stills manufacturers need to learn a thing or two from their video counterparts.
+Shadow noise
+One factor not highlighted in these tests is a series of abnormally bright pixels in the deepest shadows of the file. All across the image are pixels that have recorded values 5-20x brighter than those around them. Invisible if left near black, these brighter pixels end up being pushed to clipping if you pull the shadows too far. They're masked in these tests by our use of Adobe Camera Raw's default chroma noise reduction, appearing as desaturated salt-speckled noise rather than bright red, green or blue individual pixels.
+These sporadic bright pixels are not too visually damaging may slightly reduce the degree you wish to manipulate the files.
+
+
+	*** Page  10 ***
+
+
+
+Video Quality
+We'll be looking at the experience of shooting with the D850 in a separate article, but here we can look at the resolution capture and the differences between the camera's many shooting modes.
+Obviously a still scene can't convey the effects of motion, such as rolling shutter or the effects of compression, so for those we'll be including footage shot with the camera in our experiential article.
+4K video
+The D850 is the third Nikon DSLR to shoot 4K footage and the first to be able to use the full width of its sensor, meaning the lenses you use to shoot wide angle stills with continue to offer a wide field of view when shooting video.
+The camera can shoot UHD 4K at 30, 25 and 24p and can do so either either from the full sensor width (FX in Nikon speak) or from a 1.5x APS-C ('DX') cropped region. Both can be saved in either MOV or MP4 wrappers, depending on what sort of device you want to output the footage to.
+The 4K modes are shot in h.264 with a bitrate of 144Mbps.
+1080 video
+As well as 4K, the camera can shoot 1080p footage at up to 60p, again either using the full width or a DX crop. There's also an electronic stabilization option in 1080 mode, available in both FX and DX modes. It's very effective, providing glidecam-esque footage. It's incompatible with peaking, though.
+
+
+
+
+
+
+
+The stabilization mode applies a further 1.1x crop to whichever sensor area mode you're in. 1080 modes are shot in H.264 with a choice of bitrates. 60 and 50p can be shot at 48 or 24Mbps, 30, 25 and 24p gives options of 24 or 12Mbps.
+There's also a slow-mo option that captures at 120 or 100 fps from the DX region of the sensor and outputs as 1/4th speed 30/25p or 1/5th speed 24p.
+Video Resolution
+$(document).ready(function() { ImageComparisonWidget({"containerId":"reviewImageComparisonWidget-52922915","widgetId":555,"initialStateId":null}) })
+Looking at the 4K footage you can see the effects of its sub-sampling: the full width footage looks as if there's been something like line skipping, which produces the risk of moiré (though it's unlikely to look this bad, pointed at lower-contrast detail). The result from the DX crop are better, with symmetrical aliasing suggesting pixel binning. There's not significantly higher detail visible, though.
+This puts the camera a little behind the Sony a7R II's impressive oversampled crop mode$(document).ready(function() { $("#icl-3760-154342331").click(function() { ImageComparisonWidgetLink(3760); }); }) but, added risk of moiré aside, not far off, in real world usage. The subsampling is likely to reduce low light performance, though, since you aren't using the full sensor region.
+It's a similar story if you switch to 1080p$(document).ready(function() { $("#icl-3761--1775124964").click(function() { ImageComparisonWidgetLink(3761); }); }) mode. The FX and DX crops are pretty similar (certainly similar enough to allow cross-cutting). The same is true when you apply e-stabilizer$(document).ready(function() { $("#icl-3762-47638937").click(function() { ImageComparisonWidgetLink(3762); }); }) mode: there's some risk of moiré but the footage looks essentially identical, despite the additional crop, meaning you can readily cut between FX and DX footage, with and without stabilization.
+Click here to read more about the experience of shooting video with the Nikon D850.
+
+
+	*** Page  11 ***
+
+
+
+Autofocus precision
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon AF-S 85mm F1.8G.ISO 64 | 1/200 sec | F2.8
+
+
+
+Nikon says the D850 has the same autofocus system as both the D5 and D500, with 153 AF points (99 of which are cross-type), a dedicated AF processor and the ability to focus down to -4 EV with the central point. Indeed, we titled the D5 review with the phrase, 'Setting new standards,' due in no small part to the D5 having the best phase-detection autofocus system we'd ever tested.
+So, does the D850 follow through and deliver D5 levels of autofocus performance? As it turns out, it's not so cut-and-dry.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw with sharpening and noise reduction left to default. Nikon AF-S 85mm F1.8G. Camera placed on tripod, single off-camera flash.ISO 64 | 1/100 sec | F1.8
+
+
+
+What good are 45.7 million pixels if your image is out of focus? Fortunately, it looks like the D850 exhibits excellent autofocus precision much of the time - focus errors are mostly linked more to the shortcomings of DSLR autofocus system design, which we'll get to in a moment.
+For the image above, we shot ten images with a very patient and very still model, and de-focused the lens before each shot. We alternated between setting it to the minimum focus distance, and then to infinity, and then initiated autofocus with a point placed directly over her eye, using a single point in Single AF. This image is the softest example from that set, as it is very, very slightly front-focused. Indeed, you need to look at 100% to even really see this, and every image exhibited more than an acceptable level of sharpness.
+We ran this test with both the 85mm F1.8G and 105mm F1.4G lenses at fairly close range with stationary models and had largely the same results - consistency and precision are sufficiently high as to be a non-issue.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw, sharpening and noise reduction left to default. Nikon AF-S 105mm F1.4EISO 64 | 1/200 sec | F1.4
+
+
+
+That said, Nikon continues to lack a spot focus mode - if there's something other than your intended subject that's close to your AF point, you may find that you're missing focus. This happened in particular with attempting to lock on to a motorcyclists' eye through his helmet - the camera would focus on the helmet only, and in the end required manual focus adjustment.
+After looking at AF precision with some close-up subjects, we took the 105mm F1.4G out for some wide-open, full-length images, and ran into some issues.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon AF-S 105mm F1.4E ISO 64 | 1/200 sec | F1.4
+
+
+
+Click through on the above image to see how the Nikon back-focused despite the autofocus point being placed directly over the subjects face. At this particular distance, this happened repeatedly. Not wanting to AF fine tune a lens in the middle of a shoot (seemed rude), I switched into Live View, which uses the main image sensor and contrast detection to focus incredibly accurately, and all was well. Then I moved in closer and resumed shooting through the viewfinder, and lo and behold, the 105mm was tack sharp again.
+However, repeated testing has shown both that lenses (including our 105mm F1.4) can require different fine tuning for different focus depths. Furthermore, we found the results change, based on whether the lens starts at close focus or infinity: a source of error that calibration can't address.
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon AF-S 105mm F1.4E ISO 64 | 1/200 sec | F2
+
+
+
+So it certainly seems that the D850's autofocus system is capable of extremely promising results. And though its operation isn't obvious and can be a little cumbersome, Nikon's Automatic AF Fine Tune feature makes it easy to calibrate your lenses at a given focal length and given distance-to-subject. But therein lies the issue; there is no provision to calibrate a lens at different focal lengths (for zooms), or different focus distances, or for anything but the central AF point. When you've got F1.4 primes and 45.7MP of resolution, a small calibration can be the difference between the perfect shot and a throwaway shot: the D850's resolution ends up highlighting a problem inherent to DSLRs.
+So now that we've addressed some aspects of the D850's autofocus precision, let's take a look at how its autofocus tracking works.
+
+
+
+
+
+
+Image processed to taste in Adobe Camera Raw. Nikon AF-S 105mm F1.4E.ISO 64 | 1/200 sec | F5
+
+
+	*** Page  12 ***
+
+
+
+Autofocus tracking
+
+
+
+
+
+
+Processed to taste in Adobe Camera Raw. Nikon 70-200mm F2.8EISO 64 | 1/2000 sec | F2.8
+
+
+
+We've already written a lot about subject tracking and Nikon's 3D Tracking in particular. In spite of other cameras on the market perhaps offering more frames per second, more autofocus points, or both, we continue to find that the 3D Tracking implementation on the flagship D5 is still the best overall performer in terms of focus accuracy and tracking reliability. It's remarkably reliable at automatically shifting the AF point to stick to your original subject.
+But the D850 is not a D5, it just shares the autofocus system. So, we set it up in front of a man on a bicycle to find out how it copes with semi-quick, non-predictable (for a camera) subject movement.
+Bike test
+As with all Nikon DSLRs these days, the D850 performed near-flawlessly with a rider coming straight at the camera, continuously autofocusing with a single point over his face. So no surprises there - but we were surprised to find some issues with the D850's 3D Tracking when the cyclist was weaving side-to-side.
+As with all Nikon DSLRs these days, the D850 performed near-flawlessly with a rider coming straight at the camera
+While the rider coming straight at the camera assesses whether a camera is able to deal with depth information and asses whether the camera can even drive the lens' focus elements fast enough to keep up, introducing the weave necessarily introduces greater stresses on the camera. It must be both reactive and predictive in an effort to keep the proper autofocus point on the subject.
+And in many instances, the camera was able to correctly recognize and follow the subject around the frame which, combined with the ability to judge depth and drive the focus quickly (that we saw in the straight-on test), gave a very good result.
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+Now this isn't a bad show considering the amount of lateral movement, with a lot of movement towards the camera, at seven frames per second and 46 megapixels. However, without any rhyme or reason, this would sometimes happen:
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+
+The D850 would sometimes, mid-burst, lose track of the subject it had initially been tracking. This happened both in the middle of the autofocus area, as above, and also near the edges (usually at the apex of a turn, indicating a change in approach speed to the camera). It happened regardless of whether the camera's 'Subject Motion' parameter of 'Focus tracking with lock-on' was set to Erratic, Steady, or in-between.
+And this didn't happen overwhelmingly often, or with any regularity - there were times, such as when Dan was backlit by car headlights, that I expected the camera to get distracted, and it didn't. We also swapped the D850 out for a D5 and ran the same test with the same lens three times, at 12fps, without any such problems. The D850 exhibited this issue within the first three runs on two testing occasions.
+In any case, the story with autofocus tracking appears to be similar to that involving autofocus precision; the D850 is certainly capable of tracking extremely well, but there appears to be some other factor(s) at play holding it back.
+Low light autofocus
+One of our favorite use-cases for 3D Tracking, or subject tracking in general, is candid, social photography. Allowing the camera to track your subject while you freely change your composition can come in very handy - when it works.
+With the D850, we're happy to report that there weren't any egregious focus errors such as what we found in our bike tests. However, we have found both in this test and our less structured observations while using the camera, that the autofocus point seems more prone to 'jump around' our initially chosen subject, rather than sticking tenaciously to the exact point on that subject at which autofocus was initiated.
+Granted, we are comparing here to the flagship D5, though the D850 still performs far better than some competing brands in this regard, including Canon's iTR or Intelligent Tracking and Recognition.
+It's also worth mentioning that the AF point is hard to see in low light or low contrast situations. When tracking the black point is often difficult to make out, and even when the camera flashes the selected AF point red when you initiate, it's not very bright. The brightness is adaptive: brighter in bright light and dimmer in dim light, but we'd rather prefer it to always be bright, as can be enabled on Nikon's flagships.
+
+$(document).ready(function() { SampleGalleryStripV2({"galleryId":"5131147842","isMobile":false}) })
+Summary
+Appropriately for a highly capable camera, the D850 comes with a highly capable autofocus system. In single-point Single AF and Continuous AF, as well as in its Dynamic area settings, accuracy, hit rate and precision all rank pretty high. However, the D850's massive resolution shows up some inherent issues in terms of how DSLR autofocus systems work that might prevent you from getting all 'keepers' all the time, especially if your lens requires calibration. This shows up most often in wide-aperture work, such as some styles of portraiture, where autofocus precision is of paramount importance.
+In terms of subject tracking, we continue to be perplexed by our experiences with 3D Tracking - but we must admit that, during burst shooting, the D850 pulls away handily when compared to its predecessor, the D810, as well as the Canon 5Ds R and Sony a7R II (though the Sony tracks better in Eye AF mode as long as you're not shooting bursts). However, despite Nikon's claims of D5 levels of performance, we collectively find the D850 to be somewhat lagging behind that lofty benchmark.
+We'll be reaching out to Nikon with our observations, and have procured a battery grip for the D850 that boosts shooting to nine frames per second and provides a boatload of extra shots per charge. There's an awful lot of sports shooting in our D850's future, so stay tuned for updates.
+
+
+	*** Page  13 ***
+
+
+
+NIkon D850 Specifications
+
+
+
+
+
+
+
+PriceMSRP$3299Body typeBody typeMid-size SLRBody materialMagnesium alloySensorMax resolution8256 x 5504Image ratio w:h1:1, 5:4, 3:2, 16:9Effective pixels46 megapixelsSensor photo detectors47 megapixelsSensor sizeFull frame (35.9 x 23.9 mm)Sensor typeBSI-CMOSProcessorExpeed 5Color spacesRGB, Adobe RGBColor filter arrayPrimary color filterImageISOAuto, 64-25600 (expands to 32-102400)Boosted ISO (minimum)32Boosted ISO (maximum)102400White balance presets14Custom white balanceYes (6 slots)Image stabilizationNoUncompressed formatRAW + TIFFJPEG quality levelsFine, normal, basicFile format
+JPEG (Exif v2.3)TIFF (RGB)Raw (Nikon NEF, 12 or 14 bit, lossless compressed, compressed or uncompressed)
+Optics & FocusAutofocus
+Contrast Detect (sensor)Phase DetectMulti-areaCenterSelective single-pointTrackingSingleContinuousTouchFace DetectionLive View
+Autofocus assist lampNoManual focusYesNumber of focus points151Lens mountNikon FFocal length multiplier1×Screen / viewfinderArticulated LCDTiltingScreen size3.2″Screen dots2,359,000Touch screenYesScreen typeTFT LCDLive viewYesViewfinder typeOptical (pentaprism)Viewfinder coverage100%Viewfinder magnification0.75×Photography featuresMinimum shutter speed30 secMaximum shutter speed1/8000 secExposure modes
+ProgramAperture priorityShutter priorityManual
+Built-in flashNoExternal flashYes (via hot shoe or flash sync port)Flash modesFront-curtain sync (normal), Rear-curtain sync, Red-eye reduction, Red-eye reduction with slow sync, Slow syncFlash X sync speed1/250 secDrive modes
+Single-frameSelf-timerQuiet shutterQuiet continuousMirror-upContinuous lowContinuous high
+Continuous drive9.0 fpsSelf-timerYes (2, 5, 10, 20 secs)Metering modes
+MultiCenter-weightedHighlight-weightedSpot
+Exposure compensation±5 (at 1/3 EV, 1/2 EV, 1 EV steps)AE Bracketing±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)WB BracketingYes (2-9 exposures in 1, 2, or 3EV increments)Videography featuresFormatMPEG-4Modes
+3840 x 2160 @ 30p, MOV, H.264, Linear PCM3840 x 2160 @ 25p, MOV, H.264, Linear PCM3840 x 2160 @ 24p, MOV, H.264, Linear PCM1920 x 1080 @ 120p, MOV, H.264, Linear PCM1920 x 1080 @ 60p, MOV, H.264, Linear PCM1920 x 1080 @ 50p, MOV, H.264, Linear PCM1920 x 1080 @ 30p, MOV, H.264, Linear PCM1920 x 1080 @ 25p, MOV, H.264, Linear PCM1920 x 1080 @ 24p, MOV, H.264, Linear PCM1280 x 720 @ 60p, MOV, H.264, Linear PCM1280 x 720 @ 50p, MOV, H.264, Linear PCM
+MicrophoneStereoSpeakerMonoStorageStorage typesSD/SDHC/SDXC (UHS-II supported) + XQDConnectivityUSB
+                            USB 3.0 (5 GBit/sec)USB chargingNoHDMIYes (mini HDMI)Microphone portYesHeadphone portYesWirelessBuilt-InWireless notes802.11b/g + NFC + Bluetooth 4.1 LERemote controlYes (wired, wireless, smartphone)PhysicalEnvironmentally sealedYesBatteryBattery PackBattery descriptionEN-EL15a lithium-ion battery & chargerBattery Life (CIPA)1840Weight (inc. batteries)1005 g (2.22 lb / 35.45 oz)Dimensions146 x 124 x 79 mm (5.75 x 4.88 x 3.11″)Other featuresOrientation sensorYesTimelapse recordingYes (4K movies or '8K' stills)GPSNonee
